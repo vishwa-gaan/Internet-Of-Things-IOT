@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.31
+Flask-SQLAlchemy
+flask~=3.0.3
+psycopg2
+datetime
